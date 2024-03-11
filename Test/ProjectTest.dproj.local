@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/11/27 10:47:55.000.795,=C:\Users\klaub\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/07 22:49:33.000.863,=C:\Users\klaub\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/07 22:50:47.000.890,C:\Teste Delphi\Test\uLoginServiceTest.pas=C:\Users\klaub\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/07 22:50:56.000.898,C:\Teste Delphi\Test\ProjectTest.dproj=C:\Users\klaub\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/03/07 23:08:27.000.933,=C:\Teste Delphi\Services\services.login.pas</Transaction>
+    <Transaction>2024/03/07 23:11:12.000.194,=C:\Teste Delphi\Data\data.conexao.pas</Transaction>
+    <Transaction>2024/03/07 23:31:43.000.716,=C:\Teste Delphi\Test\Unit1.pas</Transaction>
+    <Transaction>2024/03/07 23:32:22.000.369,C:\Teste Delphi\Test\Unit1.pas=C:\Teste Delphi\Test\uTesteConexao.pas</Transaction>
+    <Transaction>2024/03/08 00:02:04.000.723,=C:\Teste Delphi\Test\Unit1.pas</Transaction>
+    <Transaction>2024/03/08 00:03:25.000.138,=C:\Teste Delphi\View\view.messages.pas</Transaction>
+    <Transaction>2024/03/08 00:04:10.000.297,C:\Teste Delphi\Test\Unit1.pas=C:\Teste Delphi\Test\uTesteMessages.pas</Transaction>
+    <Transaction>2024/03/08 00:16:06.000.070,C:\Teste Delphi\Test\uLoginServiceTest.pas=C:\Teste Delphi\Test\uTesteLogin.pas</Transaction>
+    <Transaction>2024/03/08 20:36:00.000.787,=C:\Teste Delphi\View\view.cadastro.produto.pas</Transaction>
+    <Transaction>2024/03/08 20:36:12.000.569,=C:\Teste Delphi\View\view.cadastro.pas</Transaction>
+    <Transaction>2024/03/08 20:36:25.000.953,=C:\Teste Delphi\Test\Unit1.pas</Transaction>
+    <Transaction>2024/03/08 20:37:20.000.425,C:\Teste Delphi\Test\uTesteFormProdutos.pas=C:\Teste Delphi\Test\Unit1.pas</Transaction>
+    <Transaction>2024/03/08 20:37:55.000.959,=C:\Teste Delphi\Services\CadastroPresenter.pas</Transaction>
+    <Transaction>2024/03/08 20:37:56.000.002,=C:\Teste Delphi\Services\CadastroViewInterface.pas</Transaction>
+    <Transaction>2024/03/08 20:38:24.000.407,=C:\Teste Delphi\Services\ProdutoRepository.pas</Transaction>
+    <Transaction>2024/03/08 20:38:24.000.384,=C:\Teste Delphi\Services\CategoriaRepository.pas</Transaction>
+    <Transaction>2024/03/08 20:38:41.000.918,=C:\Teste Delphi\Entity\Entity.Produto.pas</Transaction>
+    <Transaction>2024/03/10 23:34:40.000.823,=C:\Teste Delphi\Test\Unit1.pas</Transaction>
+    <Transaction>2024/03/10 23:35:36.000.749,C:\Teste Delphi\Test\Unit1.pas=C:\Teste Delphi\Test\Test.MovimentacaoEstoque.pas</Transaction>
+    <Transaction>2024/03/10 23:35:49.000.642,=C:\Teste Delphi\View\view.movimentacao.estoque.pas</Transaction>
+    <Transaction>2024/03/10 23:55:30.000.087,=C:\Teste Delphi\Services\MovimentacaoEstoqueRepository.pas</Transaction>
+    <Transaction>2024/03/11 01:07:19.000.166,C:\Teste Delphi\Test\Test.MovimentacaoEstoque.pas=C:\Teste Delphi\Test\test.movimentacao.estoque.pas</Transaction>
+    <Transaction>2024/03/11 01:07:35.000.799,C:\Teste Delphi\Test\uTesteConexao.pas=C:\Teste Delphi\Test\teste.conexao.pas</Transaction>
+    <Transaction>2024/03/11 01:07:52.000.732,C:\Teste Delphi\Test\uTesteFormProdutos.pas=C:\Teste Delphi\Test\teste.FormProdutos.pas</Transaction>
+    <Transaction>2024/03/11 01:08:08.000.617,C:\Teste Delphi\Test\uTesteLogin.pas=C:\Teste Delphi\Test\teste.login.pas</Transaction>
+    <Transaction>2024/03/11 01:08:21.000.385,C:\Teste Delphi\Test\uTesteMessages.pas=C:\Teste Delphi\Test\teste.messages.pas</Transaction>
+    <Transaction>2024/03/11 01:08:46.000.417,C:\Teste Delphi\Test\teste.FormProdutos.pas=C:\Teste Delphi\Test\teste.f1orm.produtos.pas</Transaction>
+    <Transaction>2024/03/11 01:08:57.000.550,C:\Teste Delphi\Test\teste.f1orm.produtos.pas=C:\Teste Delphi\Test\teste.form.produtos.pas</Transaction>
+    <Transaction>2024/03/11 01:59:31.332,C:\Teste Delphi\View\view.movimentacao.estoque.pas=</Transaction>
+    <Transaction>2024/03/11 01:59:31.351,C:\Teste Delphi\View\view.messages.pas=</Transaction>
+    <Transaction>2024/03/11 01:59:31.357,C:\Teste Delphi\View\view.cadastro.produto.pas=</Transaction>
+    <Transaction>2024/03/11 01:59:31.362,C:\Teste Delphi\View\view.cadastro.pas=</Transaction>
+    <Transaction>2024/03/11 01:59:47.173,C:\Teste Delphi\Entity\Entity.Produto.pas=</Transaction>
+    <Transaction>2024/03/11 01:59:52.287,C:\Teste Delphi\Data\data.conexao.pas=</Transaction>
+    <Transaction>2024/03/11 02:00:09.248,=C:\Teste Delphi\Data\data.conexao.pas</Transaction>
+    <Transaction>2024/03/11 02:01:28.486,=C:\Teste Delphi\Interface\CadastroInterface.pas</Transaction>
+    <Transaction>2024/03/11 02:01:28.544,=C:\Teste Delphi\Interface\loginInterface.pas</Transaction>
+    <Transaction>2024/03/11 02:01:55.225,=C:\Teste Delphi\View\view.messages.pas</Transaction>
+    <Transaction>2024/03/11 02:02:23.153,=C:\Teste Delphi\Presenter\presenter.cadastro.pas</Transaction>
+    <Transaction>2024/03/11 02:03:38.088,=C:\Teste Delphi\View\view.cadastro.produto.pas</Transaction>
+    <Transaction>2024/03/11 02:03:48.604,=C:\Teste Delphi\View\view.cadastro.pas</Transaction>
+    <Transaction>2024/03/11 02:04:40.237,=C:\Teste Delphi\Repository\repository.produto.pas</Transaction>
+    <Transaction>2024/03/11 02:05:00.662,=C:\Teste Delphi\Repository\repository.categoria.pas</Transaction>
+    <Transaction>2024/03/11 02:05:36.176,=C:\Teste Delphi\View\view.movimentacao.estoque.pas</Transaction>
+    <Transaction>2024/03/11 02:11:19.643,=C:\Teste Delphi\Repository\repository.movimentacao.estoque.pas</Transaction>
+    <Transaction>2024/03/11 02:14:21.352,C:\Teste Delphi\Test\teste.movimentacao.estoque.pas=C:\Teste Delphi\Test\test.movimentacao.estoque.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="C:\Teste Delphi"/>
+    <File Path="..\Data"/>
+    <File Path="..\Data\data.conexao.pas"/>
+    <File Path="..\Interface"/>
+    <File Path="..\Interface\CadastroInterface.pas"/>
+    <File Path="..\Interface\loginInterface.pas"/>
+    <File Path="..\Presenter"/>
+    <File Path="..\Presenter\presenter.cadastro.pas"/>
+    <File Path="..\Repository"/>
+    <File Path="..\Repository\repository.categoria.pas"/>
+    <File Path="..\Repository\repository.movimentacao.estoque.pas"/>
+    <File Path="..\Repository\repository.produto.pas"/>
+    <File Path="..\View"/>
+    <File Path="..\View\view.cadastro.pas"/>
+    <File Path="..\View\view.cadastro.dfm"/>
+    <File Path="..\View\view.cadastro.produto.pas"/>
+    <File Path="..\View\view.messages.pas"/>
+    <File Path="..\View\view.messages.dfm"/>
+    <File Path="..\View\view.movimentacao.estoque.pas"/>
+    <File Path="..\View\view.movimentacao.estoque.dfm"/>
+    <File Path="teste.movimentacao.estoque.pas"/>
+    <File Path="teste.conexao.pas"/>
+    <File Path="teste.form.produtos.pas"/>
+    <File Path="teste.login.pas"/>
+    <File Path="teste.messages.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
