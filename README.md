@@ -10,7 +10,7 @@ Tela de gerenciamento de estoque:
 ![image](https://github.com/klauberAguiar/Teste-Khipo/assets/108275217/0ba3466b-6a26-466c-b8a3-8eadd881b158)
 
 Log do test: 
-[Upl<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <test-results name="C:\Teste Delphi\Teste-Khipo\Test\Win32\Debug\ProjectTest.exe" total="8" errors="0" failures="0" ignored="0" inconclusive="0" not-run="0" skipped="0" invalid="0" date="2024-03-11" time="2.496">
   <culture-info current-culture="en" current-uiculture="en" />
   <test-suite type="Assembly" name="ProjectTest.exe" executed="true" result="Success" success="True" time="2.496" asserts="0">
@@ -50,8 +50,6 @@ Log do test:
     </results>
   </test-suite>
 </test-results>
-oading dunitx-results.xml…]()
-
 
 
 Banco de dados:
