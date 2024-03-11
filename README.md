@@ -1,6 +1,10 @@
 Login:
 Usuario: ADMINISTRADOR
 Senha: 123456
+
+***A atualização do saldo do produto é realizada pela trigger TRG_ATUALIZA_ESTOQUE.
+
+
 ![image](https://github.com/klauberAguiar/Teste-Khipo/assets/108275217/133edce8-d8fb-4c00-89d1-375cdec7d27e)
 
 Tela de gerenciamento de produtos: 
@@ -13,6 +17,17 @@ Log do test:
 ![image](https://github.com/klauberAguiar/Teste-Khipo/assets/108275217/54f98f02-c435-4e6f-a9ed-c583e28bd240)
 
 Banco de dados:
+
+CREATE TRIGGER TRG_ATUALIZA_ESTOQUE FOR MOVIMENTACOES_ESTOQUE AFTER INSERT
+AS
+BEGIN
+    IF (NEW.TIPO_MOVIMENTACAO = 'ENTRADA') THEN
+        UPDATE PRODUTOS SET QUANTIDADEEMESTOQUE = QUANTIDADEEMESTOQUE + NEW.QUANTIDADE
+        WHERE ID = NEW.PRODUTO_ID;
+    ELSE IF (NEW.TIPO_MOVIMENTACAO = 'SAIDA') THEN
+        UPDATE PRODUTOS SET QUANTIDADEEMESTOQUE = QUANTIDADEEMESTOQUE - NEW.QUANTIDADE
+        WHERE ID = NEW.PRODUTO_ID;
+END;
 
 CREATE TABLE CATEGORIAS (
 	ID INTEGER NOT NULL,
