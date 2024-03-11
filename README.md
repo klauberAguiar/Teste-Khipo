@@ -10,47 +10,7 @@ Tela de gerenciamento de estoque:
 ![image](https://github.com/klauberAguiar/Teste-Khipo/assets/108275217/0ba3466b-6a26-466c-b8a3-8eadd881b158)
 
 Log do test: 
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<test-results name="C:\Teste Delphi\Teste-Khipo\Test\Win32\Debug\ProjectTest.exe" total="8" errors="0" failures="0" ignored="0" inconclusive="0" not-run="0" skipped="0" invalid="0" date="2024-03-11" time="2.496">
-  <culture-info current-culture="en" current-uiculture="en" />
-  <test-suite type="Assembly" name="ProjectTest.exe" executed="true" result="Success" success="True" time="2.496" asserts="0">
-    <results>
-        <test-suite type="Namespace" name="teste" executed="true" result="Success" success="True" time="2.493" asserts="0" >
-          <results>
-              <test-suite type="Fixture" name="TTesteConexao" executed="True" result="Success" success="True" time="0.209" >
-                <results>
-                  <test-case name="TesteConectar" executed="True" result="Success" success="True" time="0.063" asserts="0" />
-                  <test-case name="TesteFalhaConectar" executed="True" result="Success" success="True" time="0.005" asserts="0" />
-                </results>
-              </test-suite>
-              <test-suite type="Fixture" name="TestTFormProdutos" executed="True" result="Success" success="True" time="0.138" >
-                <results>
-                  <test-case name="TesteBotoesAposNovo" executed="True" result="Success" success="True" time="0.000" asserts="0" />
-                  <test-case name="TesteSalvarProduto" executed="True" result="Success" success="True" time="0.003" asserts="0" />
-                </results>
-              </test-suite>
-              <test-suite type="Fixture" name="TLoginServiceTest" executed="True" result="Success" success="True" time="0.005" >
-                <results>
-                  <test-case name="TestAuthenticateUser_ValidCredentials_ReturnsTrue" executed="True" result="Success" success="True" time="0.003" asserts="0" />
-                  <test-case name="TestAuthenticateUser_InvalidCredentials_ReturnsFalse" executed="True" result="Success" success="True" time="0.001" asserts="0" />
-                </results>
-              </test-suite>
-              <test-suite type="Fixture" name="TTesteMessages" executed="True" result="Success" success="True" time="2.089" >
-                <results>
-                  <test-case name="TesteShowMessage" executed="True" result="Success" success="True" time="2.088" asserts="0" />
-                </results>
-              </test-suite>
-              <test-suite type="Fixture" name="TestTFormMovimentacaoEstoque" executed="True" result="Success" success="True" time="0.052" >
-                <results>
-                  <test-case name="TesteMovimentacaoEstoque" executed="True" result="Success" success="True" time="0.006" asserts="0" />
-                </results>
-              </test-suite>
-          </results>
-        </test-suite>
-    </results>
-  </test-suite>
-</test-results>
-
+![image](https://github.com/klauberAguiar/Teste-Khipo/assets/108275217/54f98f02-c435-4e6f-a9ed-c583e28bd240)
 
 Banco de dados:
 
